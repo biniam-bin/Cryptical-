@@ -1,7 +1,8 @@
 import React from "react";
 import { Line } from "react-chartjs-2";
-// import "chartjs-adapter-moment";
+import "chartjs-adapter-moment";
 import Chart from "chart.js/auto";
+
 
 import jsCalendar from "js-calendar";
 var jsCal = new jsCalendar.Generator({ onlyDays: true });

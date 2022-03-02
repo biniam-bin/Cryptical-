@@ -9,7 +9,7 @@ const Profile = () => {
           <img
             src="https://media.istockphoto.com/photos/smiling-indian-business-man-working-on-laptop-at-home-office-young-picture-id1307615661?b=1&k=20&m=1307615661&s=170667a&w=0&h=Zp9_27RVS_UdlIm2k8sa8PuutX9K3HTs8xdK0UfKmYk="
             alt=""
-            className="h-28 object-cover rounded-md"
+            className="h-full object-cover rounded-md"
           />
           <div className="flex items-start flex-col w-full b h-4/5 pl-4">
             <h3 className="font-bold text-xl">Biniam Daniel</h3>
