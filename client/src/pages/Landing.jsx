@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 const Landing = () => {
   return (
-    <div>Landing <Link to="/main">Login</Link></div>
+    <div>Landing <Link to="/main/shop">Login</Link></div>
   )
 }
 
